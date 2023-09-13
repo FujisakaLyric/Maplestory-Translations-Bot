@@ -329,13 +329,13 @@ module.exports = {
 
     if (subCommand === 'boss') {
       embed.addFields(
-        { name: "Query:", value: `${result}`},
-        { name: "Query (Solo):", value: `${solo_result}`}
+        { name: "Query:", value: "```" + `${result}` + "```"},
+        { name: "Query (Solo):", value: "```" + `${solo_result}` + "```"}
       );
     }
     else {
       embed.addFields(
-        { name: "Query:", value: `${result}`}
+        { name: "Query:", value: "```" + `${result}` + "```"}
       );
     }
 
