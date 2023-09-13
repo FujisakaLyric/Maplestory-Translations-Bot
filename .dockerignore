@@ -1,5 +1,7 @@
 # Dependency directories
 node_modules/
 
-# dotenv environment variables file
-.env
+Dockerfile
+.dockerignore
+.git
+fly.toml
