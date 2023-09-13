@@ -6,7 +6,6 @@ module.exports = {
       const command = client.commands.get(interaction.commandName);
 
       if (!command) return;
-      if (!interaction.member.permissions.has(command.permissions)) return interaction.reply({ content: 'You do not have the permission to use this command.', ephemeral: true });
 
       try {
           await command.execute(interaction, client);
