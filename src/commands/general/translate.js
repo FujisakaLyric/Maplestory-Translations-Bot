@@ -6,10 +6,10 @@
 const { SlashCommandBuilder } = require('discord.js');
 
 module.exports = {
-	data: new SlashCommandBuilder()
-		.setName('translate')
-		.setDescription('Test /translate!'),
-	async execute(interaction) {
-		await interaction.reply('Translating...');
-	},
+  data: new SlashCommandBuilder()
+    .setName('translate')
+    .setDescription('Test /translate!'),
+  async execute(interaction) {
+    await interaction.reply('Translating...');
+  },
 };
