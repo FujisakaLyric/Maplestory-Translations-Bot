@@ -49,7 +49,8 @@
     "47": {"name": "Hayato",          "translation": "劍豪"},
     "48": {"name": "Kanna",           "translation": "陰陽師"},
     "49": {"name": "Beast Tamer",     "translation": "幻獸師"},
-    "50": {"name": "Mo Xuan",         "translation": "墨玄"}
+    "50": {"name": "Mo Xuan",         "translation": "墨玄"},
+    "51": {"name": "Lynn",            "translation": "琳恩"}
   },
   "maps": {
     "Mu Lung Dojo": "武陵道場",

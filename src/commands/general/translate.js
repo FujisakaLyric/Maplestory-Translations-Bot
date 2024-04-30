@@ -232,7 +232,7 @@ module.exports = {
         description += `${kmsList["jobs"][job]["name"]}: ${kmsList["jobs"][job]["translation"]}\n`;
         result += `${kmsList["jobs"][job]["translation"]} `;
         solo_result += `${kmsList["jobs"][job]["translation"]} `;
-        
+
         if (difficulty !== null) {
           description += `${difficulty}: ${kmsList["difficulty"][difficulty]}\n`;
           result += `${kmsList["difficulty"][difficulty]}`;
@@ -242,7 +242,7 @@ module.exports = {
         description += `${boss}: ${kmsList["boss"][boss]}\n`;
         result += `${kmsList["boss"][boss]}`;
         solo_result += `${kmsList["boss"][boss]} `;
-        
+
         description += `Solo: ${kmsList["general"]["Solo"]}`;
         solo_result += `${kmsList["general"]["Solo"]}`;
       }
@@ -275,7 +275,7 @@ module.exports = {
         description += `${jmsList["jobs"][job]["name"]}: ${jmsList["jobs"][job]["translation"]}\n`;
         result += `${jmsList["jobs"][job]["translation"]} `;
         solo_result += `${jmsList["jobs"][job]["translation"]} `;
-        
+
         if (difficulty !== null) {
           description += `${difficulty}: ${jmsList["difficulty"][difficulty]}\n`;
           result += `${jmsList["difficulty"][difficulty]}`;
@@ -285,7 +285,7 @@ module.exports = {
         description += `${boss}: ${jmsList["boss"][boss]}\n`;
         result += `${jmsList["boss"][boss]}`;
         solo_result += `${jmsList["boss"][boss]} `;
-        
+
         description += `Solo: ${jmsList["general"]["Solo"]}`;
         solo_result += `${jmsList["general"]["Solo"]}`;
       }
@@ -318,7 +318,7 @@ module.exports = {
         description += `${tmsList["jobs"][job]["name"]}: ${tmsList["jobs"][job]["translation"]}\n`;
         result += `${tmsList["jobs"][job]["translation"]} `;
         solo_result += `${tmsList["jobs"][job]["translation"]} `;
-        
+
         if (difficulty !== null) {
           description += `${difficulty}: ${tmsList["difficulty"][difficulty]}\n`;
           result += `${tmsList["difficulty"][difficulty]}`;
@@ -328,7 +328,7 @@ module.exports = {
         description += `${boss}: ${tmsList["boss"][boss]}\n`;
         result += `${tmsList["boss"][boss]}`;
         solo_result += `${tmsList["boss"][boss]} `;
-        
+
         description += `Solo: ${tmsList["general"]["Solo"]}`;
         solo_result += `${tmsList["general"]["Solo"]}`;
       }

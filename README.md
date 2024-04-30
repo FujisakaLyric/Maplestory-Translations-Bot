@@ -54,6 +54,7 @@ Integer mapping for Jobs.
 48. Kanna
 49. Beast Tamer
 50. Mo Xuan
+51. Lynn
 ```
 
 ### Local Installation:

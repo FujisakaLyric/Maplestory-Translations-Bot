@@ -48,7 +48,8 @@
     "46": {"name": "Kinesis",         "translation": "キネシス"},
     "47": {"name": "Hayato",          "translation": "ハヤト"},
     "48": {"name": "Kanna",           "translation": "カンナ"},
-    "49": {"name": "Beast Tamer",     "translation": "ビーストテイマー"}
+    "49": {"name": "Beast Tamer",     "translation": "ビーストテイマー"},
+    "51": {"name": "Lynn",            "translation": "リン"}
   },
   "maps": {
     "Mu Lung Dojo": "武陵道場",
