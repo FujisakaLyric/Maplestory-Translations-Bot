@@ -68,7 +68,8 @@
     "Odium": "오디움",
     "Shangri-La": "도원경",
     "Arteria": "아르테리아",
-    "Carcion": "카르시온"
+    "Carcion": "카르시온",
+    "Talahart": "탈라하트"
   },
   "boss": {
     "Cygnus": "시그너스",
@@ -92,7 +93,9 @@
     "Black Mage": "검은마법사",
     "Serene": "세렌",
     "Kalos": "칼로스",
-    "Carling": "카링"
+    "Carling": "카링",
+    "Limbo": "림보",
+    "Baldrix": "발드릭스"
   },
   "difficulty": {
     "Easy": "이지",

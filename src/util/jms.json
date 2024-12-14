@@ -72,7 +72,8 @@
     "Odium": "オーディウム",
     "Shangri-La": "桃源郷",
     "Arteria": "アルテーリア",
-    "Carcion": "カルシオン"
+    "Carcion": "カルシオン",
+    "Talahart": "タラハート"
   },
   "boss": {
     "Cygnus": "シグナス",
@@ -99,7 +100,9 @@
     "Black Mage": "暗黒の魔法使い",
     "Serene": "セレン",
     "Kalos": "カロス",
-    "Carling": "カリーン"
+    "Carling": "カリーン",
+    "Limbo": "リンボ",
+    "Baldrix": "バルドリックス"
   },
   "difficulty": {
     "Easy": "イージー",

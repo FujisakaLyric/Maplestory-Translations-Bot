@@ -73,7 +73,8 @@
     "Odium": "奧迪溫",
     "Shangri-La": "桃園境",
     "Arteria": "阿爾特利亞",
-    "Carcion": "卡爾西溫"
+    "Carcion": "卡爾西溫",
+    "Talahart": "塔拉哈特"
   },
   "boss": {
     "Cygnus": "西格諾斯",
@@ -100,7 +101,9 @@
     "Black Mage": "黑魔法師",
     "Serene": "賽蓮",
     "Kalos": "卡洛斯",
-    "Carling": "咖凌"
+    "Carling": "咖凌",
+    "Limbo": "林波",
+    "Baldrix": "巴德里克斯"
   },
   "difficulty": {
     "Easy": "簡單",
